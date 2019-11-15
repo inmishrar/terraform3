@@ -1,0 +1,12 @@
+web_server_location      = "North Europe"
+web_server_rg             = "web-rg"
+resource_prefix           = "web-server"
+web_server_address_space  = "1.0.0.0/22"
+web_server_name           = "web"
+environment               = "x"
+web_server_count         = 2
+web_server_subnets        = ["1.0.1.0/24","1.0.2.0/24"]
+subscription_id = "f3db9121-0ace-436c-88a3-3e91be033ce4"
+tenant_id = "354d552b-0857-4910-bd2c-f935eddb9a03"
+client_id = "b0fa3584-8390-4974-98d5-089d6c97732f"
+client_secret = "1QACux5O?6l6q[ob]KLXTFF]I14_LXDP"
